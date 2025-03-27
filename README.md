@@ -1,10 +1,10 @@
-    T.K Computers - Shopping Cart Web Application
+ * T.K Computers - Shopping Cart Web Application
 
 This repository contains the source code for a Shopping Cart Web Application developed for "T.K Computers," a simulated e-commerce platform for tech products. The application allows users to browse products, add them to a cart and update quantities.
 
 
 
-      Features
+   * Features
 - Product browsing with images, descriptions, and prices
 - Add to cart functionality with quantity selection
 - Cart management (update quantities, remove items)
@@ -12,7 +12,7 @@ This repository contains the source code for a Shopping Cart Web Application dev
 
 
 
-      Technologies Used
+   * Technologies Used
 - HTML, CSS, JavaScript
 - PHP, MySQL
 - Google Fonts
@@ -20,7 +20,7 @@ This repository contains the source code for a Shopping Cart Web Application dev
 
 
 
-      Setup Instructions
+   * Setup Instructions
 1. Download this repository.
 2. Set up a local server (e.g., XAMPP) or upload to a hosting service (e.g., InfinityFree).
 3. Import the `shopping_cart_db.sql` file into your MySQL database to create the `products` table.
@@ -29,5 +29,5 @@ This repository contains the source code for a Shopping Cart Web Application dev
 
 
 
-       Live Demo
+   * Live Demo
 The web is hosted at: https://modernstore.wuaze.com
